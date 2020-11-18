@@ -3,9 +3,6 @@ layout: post
 title: "블로그 시작하기"
 ---
 
-
-# **블로그 시작하기**
-
 ![Programming 회계사도 할 수 있을까?](../assets/blog.png)
 
 ## 시작하며
